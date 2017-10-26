@@ -2,11 +2,17 @@
 
 <p align="right"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg"></p>
 
-# E-commerce Individual Project
+# E-commerce Group Project
 
 # CenTech
 ### *Delivering your laptop and mobile needs. . . Only better!*
 ----------
+
+> **Group 13:**
+* Lynyrd Ross Alquiroz *(Group Leader and Developer)*
+* John Michael Cao
+* Elsie Espinosa
+* Kyle Vincent Tan
 
 > **Supported with:**
 * Laravel Framework
