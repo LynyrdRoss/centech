@@ -1,0 +1,17 @@
+.catalog-nav-font {
+	font-family: 'Raleway', sans-serif;
+}
+
+.logo-size {
+	height:78px !important;
+	width:85px !important;
+	margin-top: -13px !important;
+}
+
+.footer-align {
+	text-align: left !important;
+}
+
+.spacing-icon {
+	padding-right: 20px;
+}
