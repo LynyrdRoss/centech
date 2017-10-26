@@ -12,7 +12,7 @@
 * Laravel Framework
 * Bootstrap
 * Basic JavaScript
-* Paypal payment method
+* Paypal payment method *(Link to repo at the bottom of this presentation)*
 
 ### *"/home"*
 Home page with website goals and features
@@ -43,7 +43,7 @@ Customer's cart items and total price
 
 
 ### *"/confirmation"*
-*Created new project with working payment method but same store concept*
+*Created new project with working __PAYMENT METHOD (PAYPAL)__ but same store concept*
 This is the gitHub repo:
 https://github.com/LynyrdRoss/EcommerceActivity_Alquiroz_CenTech.git
 
